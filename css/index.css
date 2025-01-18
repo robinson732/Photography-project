@@ -1,0 +1,10 @@
+title {
+    min-height: 0;
+    margin: 10px;
+    background-color: lightgray
+    ::-webkit-slider-thumb {
+        width: 20px;
+        height: 20px;
+        backgroud-color::-ms-expand;
+    }
+}
